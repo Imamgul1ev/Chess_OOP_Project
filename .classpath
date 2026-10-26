@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="src/image"/>
+	<classpathentry kind="var" path="MAVEN_REPOSITORY/org/jetbrains/annotations/24.0.0/annotations-24.0.0.jar"/>
+	<classpathentry kind="output" path="out/production/Chess"/>
+</classpath>
